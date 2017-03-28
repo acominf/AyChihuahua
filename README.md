@@ -1,6 +1,6 @@
 # AyChihuahua
 
-![En construcción](https://scontent.xx.fbcdn.net/v/t1.0-9/15977390_369135916780049_7362931683742545287_n.jpg?oh=0fdf42be812698dab0dd15dc4880dd68&oe=595F9594)
+<img src="https://scontent.xx.fbcdn.net/v/t1.0-9/15977390_369135916780049_7362931683742545287_n.jpg?oh=0fdf42be812698dab0dd15dc4880dd68&oe=595F9594" width="550" alt="Logotipo de la tienda">
 
 ## Objetivo de la aplicación
 El objetivo de la aplicación es el de crear un sitio web responsivo para la tienda "Ay Chihuahua".
