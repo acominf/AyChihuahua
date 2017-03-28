@@ -1,35 +1,32 @@
 # AyChihuahua
 
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+![En construcción](https://scontent.xx.fbcdn.net/v/t1.0-9/15977390_369135916780049_7362931683742545287_n.jpg?oh=0fdf42be812698dab0dd15dc4880dd68&oe=595F9594)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+El objetivo de la aplicación es el de crear un sitio web responsivo para la tienda "Ay Chihuahua".
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+El sitio web tendra una página de inicio, una página con el catálogo de productos y una página con la información de la tienda.
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+El sitio web permitira ver el catálogo de productos de la tienda así como también contactar con ella para realizar pedidos.
 
-### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+### Registro de clientes
+El ciente podra registrarse en la página web para guardad su o sus direcciones de envío.
 
-### Funcionalidad 2
-La descripción de la funcionalidad 2 es ...
+### Carrito de compras
+Los productos deseados podran ser agregados a un carrito de compras para posteriormente ser enviados de manera automática al vendedor al momento de establecer un pedido.
 
-### Funcionalidad 3
-La descripción de la funcionalidad 3 es ...
+### Elaboración de pedidos
+El vendedor podra recibir el carrito de compras del cliente y hablar con el para realizar el cobro.
 
-### Funcionalidad 4
-La descripción de la funcionalidad 4 es ...
+### Mensajería instantanea
+Cuando se quiera realizar una compra el cliente podra contactar con el vendedor a través de un chat.
 
-### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
-
-## Autor(es)
-El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+## Autores
+Los autores del proyecto son:
+- Carlos Manuel Gutiérrez Galán (@cmgg)
+- Salvador Salinas Serrano (@chava2708)
 
 ## Materia(s)
 - Tecnologías Web
