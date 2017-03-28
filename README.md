@@ -29,7 +29,7 @@ Los autores del proyecto son:
 - Salvador Salinas Serrano (@chava2708)
 
 ## Información adicional
-- Universidad Autónoma de San Luis Potosí
-- Facultad de Ingeniería
-- Área de Computación e Informática
-- Proyecto creado para la materia de Tecnologías Web para el semestre 2016-2017/II
+Universidad Autónoma de San Luis Potosí<br>
+Facultad de Ingeniería<br>
+Área de Computación e Informática<br>
+Proyecto creado para la materia de Tecnologías Web para el semestre 2016-2017/II
