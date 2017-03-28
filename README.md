@@ -28,14 +28,8 @@ Los autores del proyecto son:
 - Carlos Manuel Gutiérrez Galán (@cmgg)
 - Salvador Salinas Serrano (@chava2708)
 
-## Materia(s)
-- Tecnologías Web
-
-## Semestre
-- 2016-2017/II
-
-## Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-## Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
+## Información adicional
+- Universidad Autónoma de San Luis Potosí
+- Facultad de Ingeniería
+- Área de Computación e Informática
+- Proyecto creado para la materia de Tecnologías Web para el semestre 2016-2017/II
