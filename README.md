@@ -17,6 +17,9 @@ El ciente podra registrarse en la página web para guardad su o sus direcciones 
 ### Diagrama Entidad Relación
 <img src="https://raw.githubusercontent.com/acominf/AyChihuahua/master/src/img/Diagrama%20Entidad%20Relacion.png" width="550" alt="Logotipo de la tienda">
 
+### Diagrama de Componentes
+<img src="https://raw.githubusercontent.com/acominf/AyChihuahua/master/src/img/ayChihuahua.png" width="550" alt="Logotipo de la tienda">
+
 ### Enlace a la aplicación
 <a href="http://148.224.194.33/aychihua/">¡Ay Chihuahua!</a>
 
