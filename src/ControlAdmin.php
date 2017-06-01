@@ -58,6 +58,8 @@
                 echo "</tbody>";
             echo "</table>";
             echo "<a href='FormAltaProd.php'>Alta de productos</a>";
+            echo "<br>";
+            echo "<a href='FormBajaProd.php'>Baja de productos</a>";
             // Pedidos
             echo "<h3>Pedidos</h3>";
             echo "<table class='table'>";
@@ -78,6 +80,7 @@
                     }
                 echo "</tbody>";
             echo "</table>";
+            echo "<a href='FormBajaPed.php'>Baja de pedidos</a>";
         echo "</div>";
     echo "</div>";
 ?>

@@ -15,10 +15,10 @@
 			} else {
 				echo '<form method="POST">';
 				echo '<div class="container">';
+				echo '<a href="AdminCuentaCte.php" title="">Administrar mi cuenta</a>';
 				echo '<div class="row top-buffer">';
 				while ($producto = mysqli_fetch_assoc($res)) {
-					echo "
-						<div class='col-xs-18 col-sm-6 col-md-3 col-md-offset-1 col-lg-offset-0'>
+						echo "<div class='col-xs-18 col-sm-6 col-md-3 col-md-offset-1 col-lg-offset-0'>
 							<div class='thumbnail'>
 								<img src='./img/productos/{$producto['Imagen']}.jpg' alt=''>
 									<div class='caption'>
