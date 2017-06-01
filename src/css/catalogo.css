@@ -1,0 +1,12 @@
+body {
+    background-color: #ffc1c1;
+}
+
+img.logo {
+  max-height: 237px;
+  max-width: 612px;
+}
+
+.top-buffer {
+    margin-top:20px;
+}

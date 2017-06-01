@@ -1,0 +1,23 @@
+body {
+    background-color: #ffc1c1;
+}
+
+img.logo {
+  max-height: 237px;
+  max-width: 612px;
+}
+
+img.catalogo {
+  max-height: 256px;
+  max-width: 256px;
+}
+
+img.ubicacion {
+  max-height: 256px;
+  max-width: 256px;
+}
+
+img.contacto {
+  max-height: 256px;
+  max-width: 256px;
+}
